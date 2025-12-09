@@ -95,10 +95,6 @@ class AIWizard:
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajey95&theme=tokyonight&hide_border=true)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ajey95&theme=tokyonight&no-frame=true&row=1)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajey95&theme=tokyo-night&hide_border=true)
 <!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ajey95&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7" alt="Contribution Graph"/> -->
 
